@@ -1,0 +1,153 @@
+THACODE,DIVNAME,DISTNAME,Upazila,DDIEM_ID,Water Depth,Wind Speed,Thrust Force,,Result,Score
+WEIGHT,,,,,,,,,,
+100409,Barisal,Barguna,Amtali,1,0.262675291,195.0090165,19.30460293,,0,#DIV/0!
+100419,Barisal,Barguna,Bamna,2,0,129.2365643,20.08385663,,0,#DIV/0!
+100428,Barisal,Barguna,Barguna Sadar,3,0,166.1367214,8.861310628,,0,#DIV/0!
+100447,Barisal,Barguna,Betagi,4,0,136.5727199,10.39583626,,0,#DIV/0!
+100485,Barisal,Barguna,Patharghata,5,0.305750714,147.4052919,10.01029271,,0,#DIV/0!
+100602,Barisal,Barisal,Agailjhara,6,0,69.59682448,0,,0,#DIV/0!
+100603,Barisal,Barisal,Babuganj,7,0,87.88092812,4.205224654,,0,#DIV/0!
+100607,Barisal,Barisal,Bakerganj,8,0,126.3072776,9.624561879,,0,#DIV/0!
+100610,Barisal,Barisal,Banari Para,9,0,78.85906651,2.298480288,,0,#DIV/0!
+100632,Barisal,Barisal,Barisal Sadar (Kotwali),10,0,109.0049331,5.902094078,,0,#DIV/0!
+100636,Barisal,Barisal,Gaurnadi,11,0,74.6666917,2.337923746,,0,#DIV/0!
+100651,Barisal,Barisal,Hizla,12,0.413,85.53347588,3.999464842,,0,#DIV/0!
+100662,Barisal,Barisal,Mehendiganj,13,0.103259,101.7082883,5.238809266,,0,#DIV/0!
+100669,Barisal,Barisal,Muladi,14,0,85.98728886,2.39257304,,0,#DIV/0!
+100694,Barisal,Barisal,Wazirpur,15,0,81.8937053,5.030420826,,0,#DIV/0!
+100918,Barisal,Bhola,Bhola Sadar,16,0,122.6571052,8.681308097,,0,#DIV/0!
+100921,Barisal,Bhola,Burhanuddin,17,0.009219,146.6275952,9.317129126,,0,#DIV/0!
+100925,Barisal,Bhola,Char Fasson,18,4.433480793,264.4359189,113.0756585,,0,#DIV/0!
+100929,Barisal,Bhola,Daulatkhan,19,0,123.8254853,8.854756196,,0,#DIV/0!
+100954,Barisal,Bhola,Lalmohan,20,1.095815889,183.4153687,17.13482099,,0,#DIV/0!
+100965,Barisal,Bhola,Manpura,21,2.381347171,206.6066808,34.31457914,,0,#DIV/0!
+100991,Barisal,Bhola,Tazumuddin,22,0.605075286,158.2297866,11.51616216,,0,#DIV/0!
+104240,Barisal,Jhalokati,Jhalokati Sadar,23,0,96.23552456,3.806237245,,0,#DIV/0!
+104243,Barisal,Jhalokati,Kanthalia,24,0,114.6295941,3.202240416,,0,#DIV/0!
+104273,Barisal,Jhalokati,Nalchity,25,0,106.4004531,3.780727428,,0,#DIV/0!
+104284,Barisal,Jhalokati,Rajapur,26,0,106.4641251,0,,0,#DIV/0!
+107838,Barisal,Patuakhali,Bauphal,27,0,163.9125909,10.20725373,,0,#DIV/0!
+107852,Barisal,Patuakhali,Dashmina,28,0,212.6208221,28.49417443,,0,#DIV/0!
+107855,Barisal,Patuakhali,Dumki,29,0,134.7638608,9.419712286,,0,#DIV/0!
+107857,Barisal,Patuakhali,Galachipa,30,1.91104663,238.566506,85.48285749,,0,#DIV/0!
+107866,Barisal,Patuakhali,Kala Para,31,0.570017905,211.7494303,39.26495694,,0,#DIV/0!
+107876,Barisal,Patuakhali,Mirzaganj,32,0,147.6174948,13.98948162,,0,#DIV/0!
+107895,Barisal,Patuakhali,Patuakhali Sadar,33,0,159.9544513,19.15949749,,0,#DIV/0!
+107914,Barisal,Pirojpur,Bhandaria,34,0,102.9511054,2.416216558,,0,#DIV/0!
+107947,Barisal,Pirojpur,Kawkhali,35,0,90.91958733,6.666283491,,0,#DIV/0!
+107958,Barisal,Pirojpur,Mathbaria,36,0,120.7380068,7.076384323,,0,#DIV/0!
+107976,Barisal,Pirojpur,Nazirpur,37,0,74.92469012,2.039437023,,0,#DIV/0!
+107980,Barisal,Pirojpur,Nesarabad (Swarupkati),38,0,83.20820844,5.573232392,,0,#DIV/0!
+107987,Barisal,Pirojpur,Pirojpur Sadar,39,0,90.97268048,4.258401382,,0,#DIV/0!
+107990,Barisal,Pirojpur,Zianagar,40,0,92.60625522,7.091430628,,0,#DIV/0!
+201322,Chittagong,Chandpur,Chandpur Sadar,41,0.304986222,69.72784254,2.039386756,,0,#DIV/0!
+201345,Chittagong,Chandpur,Faridganj,42,0,75.94928572,1.486658471,,0,#DIV/0!
+201347,Chittagong,Chandpur,Haim Char,43,0,78.35939509,1.974658078,,0,#DIV/0!
+201349,Chittagong,Chandpur,Hajiganj,44,0,71.37026067,0.563354109,,0,#DIV/0!
+201358,Chittagong,Chandpur,Kachua,45,0,68.1775199,0,,0,#DIV/0!
+201376,Chittagong,Chandpur,Matlab Dakshin,46,0,64.34864513,0,,0,#DIV/0!
+201379,Chittagong,Chandpur,Matlab Uttar,47,0,59.51249013,1.511637155,,0,#DIV/0!
+201395,Chittagong,Chandpur,Shahrasti,48,0,73.84460413,1.032599009,,0,#DIV/0!
+201504,Chittagong,Chittagong,Anowara,49,0.676476643,107.7910972,2.760997732,,0,#DIV/0!
+201508,Chittagong,Chittagong,Banshkhali,50,0.360463571,109.6782222,2.595015559,,0,#DIV/0!
+201512,Chittagong,Chittagong,Boalkhali,51,0.154375417,99.54394945,9.688173239,,0,#DIV/0!
+201518,Chittagong,Chittagong,Chandanaish,52,0,101.3033458,2.633056337,,0,#DIV/0!
+201533,Chittagong,Chittagong,Fatikchhari,54,0.65,93.6971263,1.675186624,,0,#DIV/0!
+201537,Chittagong,Chittagong,Hathazari,55,0.179659615,98.688842,3.041111537,,0,#DIV/0!
+201547,Chittagong,Chittagong,Chittagong City Corporation,53,0.272932,107.0905061,10.47134026,,0,#DIV/0!
+201553,Chittagong,Chittagong,Lohagara,56,0,102.5733412,0,,0,#DIV/0!
+201561,Chittagong,Chittagong,Mirsharai,57,0,97.97165499,6.220907694,,0,#DIV/0!
+201570,Chittagong,Chittagong,Patiya,58,0,104.5062302,9.022367067,,0,#DIV/0!
+201574,Chittagong,Chittagong,Rangunia,59,0.814785218,93.22587394,12.79012871,,0,#DIV/0!
+201578,Chittagong,Chittagong,Raozan,60,0.24059744,96.44494109,11.44293885,,0,#DIV/0!
+201582,Chittagong,Chittagong,Sandwip,61,0.581605678,125.2807721,5.003159787,,0,#DIV/0!
+201586,Chittagong,Chittagong,Satkania,62,0,103.2623708,2.171986532,,0,#DIV/0!
+202216,Chittagong,Chittagong,Sitakunda,63,0.523283,103.2882623,3.423525056,,0,#DIV/0!
+202224,Chittagong,Cox'S Bazar,Chakaria,64,0.7252805,108.819657,8.509722043,,0,#DIV/0!
+202245,Chittagong,Cox'S Bazar,Cox'S Bazar Sadar,65,0,108.2705622,10.01157817,,0,#DIV/0!
+202249,Chittagong,Cox'S Bazar,Kutubdia,66,0.756583,115.2727772,6.879993894,,0,#DIV/0!
+202256,Chittagong,Cox'S Bazar,Maheshkhali,67,1.519544862,114.5203176,13.06644223,,0,#DIV/0!
+202266,Chittagong,Cox'S Bazar,Pekua,68,0.369266333,111.7170228,5.198094697,,0,#DIV/0!
+202290,Chittagong,Cox'S Bazar,Ramu,69,0,105.1587882,5.701042908,,0,#DIV/0!
+202294,Chittagong,Cox'S Bazar,Teknaf,70,1.8112752,98.67295433,6.21787877,,0,#DIV/0!
+203014,Chittagong,Cox'S Bazar,Ukhia,71,0,102.6110626,7.232596474,,0,#DIV/0!
+203025,Chittagong,Feni,Chhagalnaiya,72,0,84.56391348,7.217676239,,0,#DIV/0!
+203029,Chittagong,Feni,Daganbhuiyan,73,0,88.51294577,0,,0,#DIV/0!
+203041,Chittagong,Feni,Feni Sadar,74,0,85.33362691,2.249758062,,0,#DIV/0!
+203051,Chittagong,Feni,Fulgazi,75,0,78.31611953,0,,0,#DIV/0!
+203094,Chittagong,Feni,Parshuram,76,0,74.28582492,0,,0,#DIV/0!
+205133,Chittagong,Feni,Sonagazi,77,0.449224,94.2798331,1.420218045,,0,#DIV/0!
+205143,Chittagong,Lakshmipur,Kamalnagar,78,0,108.169593,1.083888267,,0,#DIV/0!
+205158,Chittagong,Lakshmipur,Lakshmipur Sadar,79,0.2070215,95.92517316,6.088944899,,0,#DIV/0!
+205165,Chittagong,Lakshmipur,Ramganj,80,0,79.88870505,0,,0,#DIV/0!
+205173,Chittagong,Lakshmipur,Ramgati,81,0.766349028,127.659923,10.64537892,,0,#DIV/0!
+207507,Chittagong,Lakshmipur,Roypur,82,0.131469143,86.42618414,3.212790015,,0,#DIV/0!
+207510,Chittagong,Noakhali,Begumganj,83,0,90.40948989,0,,0,#DIV/0!
+207521,Chittagong,Noakhali,Chatkhil,84,0,83.36488029,0,,0,#DIV/0!
+207536,Chittagong,Noakhali,Companiganj,85,0.2795723,104.8311398,6.273491575,,0,#DIV/0!
+207547,Chittagong,Noakhali,Hatiya,86,1.594160897,194.0407229,33.09118829,,0,#DIV/0!
+207580,Chittagong,Noakhali,Kabirhat,87,0,98.46190756,0,,0,#DIV/0!
+207583,Chittagong,Noakhali,Noakhali Sadar (Sudharam),88,0,104.35991,0,,0,#DIV/0!
+207585,Chittagong,Noakhali,Senbagh,89,0,89.61761978,0,,0,#DIV/0!
+207587,Chittagong,Noakhali,Sonaimuri,90,0,83.67856822,0,,0,#DIV/0!
+303532,Chittagong,Noakhali,Subarnachar,91,0.515827,124.1904791,7.74464822,,0,#DIV/0!
+303543,Dhaka,Gopalganj,Gopalganj Sadar,92,0,53.55003656,0.573955128,,0,#DIV/0!
+303551,Dhaka,Gopalganj,Kashiani,93,0,46.70447372,0.222828928,,0,#DIV/0!
+303558,Dhaka,Gopalganj,Kotali Para,94,0.211166,63.45392131,0,,0,#DIV/0!
+303591,Dhaka,Gopalganj,Muksudpur,95,0,47.00215205,0.277131659,,0,#DIV/0!
+308614,Dhaka,Gopalganj,Tungi Para,96,0,61.98321122,0.306192973,,0,#DIV/0!
+308625,Dhaka,Shariatpur,Bhedarganj,97,0,66.25656424,2.150152237,,0,#DIV/0!
+308636,Dhaka,Shariatpur,Damudya,98,0,66.04623113,0,,0,#DIV/0!
+308665,Dhaka,Shariatpur,Gosairhat,99,0,72.22542015,1.296264767,,0,#DIV/0!
+308669,Dhaka,Shariatpur,Naria,100,0,59.8968939,1.961162678,,0,#DIV/0!
+308694,Dhaka,Shariatpur,Shariatpur Sadar,101,0,61.46017518,0,,0,#DIV/0!
+400108,Dhaka,Shariatpur,Zanjira,102,0.557465765,54.29039498,1.444109473,,0,#DIV/0!
+400114,Khulna,Bagerhat,Bagerhat Sadar,103,0,70.21732692,0,,0,#DIV/0!
+400134,Khulna,Bagerhat,Chitalmari,104,0,67.99605114,0.612478385,,0,#DIV/0!
+400138,Khulna,Bagerhat,Fakirhat,105,0,57.20257864,0,,0,#DIV/0!
+400156,Khulna,Bagerhat,Kachua,106,0,75.77582683,1.843132326,,0,#DIV/0!
+400158,Khulna,Bagerhat,Mollahat,107,0,57.26186934,0.476274324,,0,#DIV/0!
+400160,Khulna,Bagerhat,Mongla,108,0.590037455,113.831812,9.896521713,,0,#DIV/0!
+400173,Khulna,Bagerhat,Morrelganj,109,0,94.91063684,6.418538621,,0,#DIV/0!
+400177,Khulna,Bagerhat,Rampal,110,0,70.68877007,1.928627188,,0,#DIV/0!
+404104,Khulna,Bagerhat,Sarankhola,111,0.714715,131.9900438,35.5279572,,0,#DIV/0!
+404109,Khulna,Jessore,Abhaynagar,112,0,40.06801559,0.007383822,,0,#DIV/0!
+404111,Khulna,Jessore,Bagher Para,113,0,30.19177246,0,,0,#DIV/0!
+404123,Khulna,Jessore,Chaugachha,114,0,20.64539991,0,,0,#DIV/0!
+404138,Khulna,Jessore,Jhikargachha,115,0,25.36790832,0,,0,#DIV/0!
+404147,Khulna,Jessore,Keshabpur,116,0,36.96959192,0,,0,#DIV/0!
+404161,Khulna,Jessore,Kotwali,117,0,30.49330898,0.004535229,,0,#DIV/0!
+404190,Khulna,Jessore,Manirampur,118,0,34.42713353,0,,0,#DIV/0!
+404712,Khulna,Jessore,Sharsha,119,0,23.55348501,0,,0,#DIV/0!
+404717,Khulna,Khulna,Batiaghata,120,0,53.15515321,0.82418643,,0,#DIV/0!
+404730,Khulna,Khulna,Dacope,121,0.1519478,92.08589907,5.393414746,,0,#DIV/0!
+404740,Khulna,Khulna,Khulna City Corporation,124,0,48.34146629,0.262394764,,0,#DIV/0!
+404753,Khulna,Khulna,Dighalia,122,0,44.34006539,0.025410725,,0,#DIV/0!
+404764,Khulna,Khulna,Dumuria,123,0,46.55846285,0.319901083,,0,#DIV/0!
+404769,Khulna,Khulna,Koyra,125,0.2493075,84.55085187,5.035224564,,0,#DIV/0!
+404775,Khulna,Khulna,Paikgachha,126,0,53.38023574,1.246257766,,0,#DIV/0!
+404794,Khulna,Khulna,Phultala,127,0,38.26374565,0.007474944,,0,#DIV/0!
+406528,Khulna,Khulna,Rupsa,128,0,52.4386919,0.238373459,,0,#DIV/0!
+406552,Khulna,Khulna,Terokhada,129,0,49.61869729,0.040525232,,0,#DIV/0!
+406576,Khulna,Narail,Kalia,130,0,50.35924945,0.607478582,,0,#DIV/0!
+408704,Khulna,Narail,Lohagara,131,0,42.02848825,0.592602204,,0,#DIV/0!
+408725,Khulna,Narail,Narail Sadar,132,0,36.93353953,0.004065388,,0,#DIV/0!
+408743,Khulna,Satkhira,Assasuni,133,0,51.20077709,1.071794252,,0,#DIV/0!
+408747,Khulna,Satkhira,Debhata,134,0,35.53096439,0.040605541,,0,#DIV/0!
+408782,Khulna,Satkhira,Kalaroa,135,0,30.0190825,0,,0,#DIV/0!
+408786,Khulna,Satkhira,Kaliganj,136,0,44.2431012,0.227952357,,0,#DIV/0!
+408790,Khulna,Satkhira,Satkhira Sadar,137,0,36.74732524,0.079222009,,0,#DIV/0!
+1,Khulna,Satkhira,Shyamnagar,138,0.672747167,74.00681541,6.1355666,,0,#DIV/0!
+2,Khulna,Satkhira,Tala,139,0,41.86006531,0.140664319,,0,#DIV/0!
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,.710,0.284526309,0.284526309,,,,,,,
+,.905,0.362545763,0.362545763,,,,,,,
+,.881,0.352927928,0.352927928,,,,,,,
+,2.496,,,,,,,,,

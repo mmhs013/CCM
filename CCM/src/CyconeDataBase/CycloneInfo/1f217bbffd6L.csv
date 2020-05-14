@@ -1,0 +1,140 @@
+DIVNAME,DISTNAME,Upazila,DDIEM_ID,Water Depth,Wind Speed,Thrust Force,Polder Damage Condition,Structure Damage Condition,Count
+Barisal,Barguna,Amtali,1,0.208925615,16.9256052,3.215209999,HP,"Pacca- No, Semi Pacca- No, Kacha- Full",26
+Barisal,Barguna,Bamna,2,0,13.6729908,0.709979125,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barguna,Barguna Sadar,3,0,15.2451828,2.864752378,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barguna,Betagi,4,0,14.714316,0.028482694,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barguna,Patharghata,5,0.240281,13.5260316,3.019757839,HP,"Pacca- No, Semi Pacca- No, Kacha- Full",8
+Barisal,Barisal,Agailjhara,6,0,13.417182,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barisal,Babuganj,7,0,15.5487492,1.321882903,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barisal,Bakerganj,8,0,18.5243544,0.408523549,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barisal,Banari Para,9,0,13.699908,0.971872337,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barisal,Barisal Sadar (Kotwali),10,0,18.0405684,0.747397412,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barisal,Gaurnadi,11,0,14.7947256,0.020654527,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barisal,Hizla,12,0.714482,18.906966,3.519596095,No polder in the area,"Pacca- Full, Semi Pacca- Full, Kacha- Full",6
+Barisal,Barisal,Mehendiganj,13,0.605419429,18.7072632,1.478536142,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",7
+Barisal,Barisal,Muladi,14,0,15.7695444,1.52011461,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Barisal,Wazirpur,15,0,14.2864236,4.689145986,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Bhola,Bhola Sadar,16,0,20.7390204,0.593297854,MP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Bhola,Burhanuddin,17,0.009219,24.6083292,0.343045637,HP,"Pacca- No, Semi Pacca- No, Kacha- Full",1
+Barisal,Bhola,Char Fasson,18,0.253892456,28.0244952,2.841199067,HP,"Pacca- No, Semi Pacca- No, Kacha- Full",57
+Barisal,Bhola,Daulatkhan,19,0.3054695,24.6899952,0.619498595,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",2
+Barisal,Bhola,Lalmohan,20,0.392088,27.5181372,1.157508601,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",1
+Barisal,Bhola,Manpura,21,0.303502968,32.2233624,1.093312349,HP,"Pacca- No, Semi Pacca- No, Kacha- Full",62
+Barisal,Bhola,Tazumuddin,22,0.373157778,29.3418252,1.689432971,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",9
+Barisal,Jhalokati,Jhalokati Sadar,23,0,14.6103948,0.655773467,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Jhalokati,Kanthalia,24,0,14.1627312,0.129242385,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Jhalokati,Nalchity,25,0,16.2112932,1.697192472,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Jhalokati,Rajapur,26,0,14.262948,0.306968349,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Patuakhali,Bauphal,27,0,21.3892128,0.431014779,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Patuakhali,Dashmina,28,0,21.40398,0.71640788,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Patuakhali,Dumki,29,0,17.5930416,0.294721025,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Patuakhali,Galachipa,30,0.286526685,21.3835536,2.095145515,LP,"Pacca- No, Semi Pacca- No, Kacha- Full",54
+Barisal,Patuakhali,Kala Para,31,0.1921155,17.3069064,2.014801711,HP,"Pacca- No, Semi Pacca- No, Kacha- Full",2
+Barisal,Patuakhali,Mirzaganj,32,0,15.5355552,1.290277708,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Patuakhali,Patuakhali Sadar,33,0,18.0883476,0.689632394,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Pirojpur,Bhandaria,34,0,13.5961128,1.458355118,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Pirojpur,Kawkhali,35,0,13.1428188,0.823299538,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Pirojpur,Mathbaria,36,0,13.1060484,3.242835992,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Pirojpur,Nazirpur,37,0,12.2192676,0.861313753,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Pirojpur,Nesarabad (Swarupkati),38,0,13.6117224,0.529326651,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Pirojpur,Pirojpur Sadar,39,0,12.4925688,0.383822868,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Barisal,Pirojpur,Zianagar,40,0,12.2740236,1.235582905,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chandpur,Chandpur Sadar,41,1.096792583,17.886942,1.763669091,No polder in the area,"Pacca- Full, Semi Pacca- Full, Kacha- Full",12
+Chittagong,Chandpur,Faridganj,42,0,19.2856428,0.345180896,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chandpur,Haim Char,43,0.532481,17.8841196,0.425450044,No polder in the area,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",4
+Chittagong,Chandpur,Hajiganj,44,0,19.7564328,0.991781421,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chandpur,Kachua,45,0,20.3120496,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chandpur,Matlab Dakshin,46,0,17.410788,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chandpur,Matlab Uttar,47,0,16.4949084,1.272760467,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chandpur,Shahrasti,48,0,21.352482,0.371817889,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chittagong,Anowara,49,0.686329857,87.0812712,1.557931698,HP,"Pacca- Full, Semi Pacca- Full, Kacha- Full",14
+Chittagong,Chittagong,Banshkhali,50,0.313094957,92.94273,1.584814077,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",23
+Chittagong,Chittagong,Boalkhali,51,0.323099,72.1700712,2.304809463,No polder in the area,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",1
+Chittagong,Chittagong,Chandanaish,52,0,90.3303648,2.760708751,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chittagong,Fatikchhari,54,0.65,53.7105636,0.098923618,No polder in the area,"Pacca- Full, Semi Pacca- Full, Kacha- Full",1
+Chittagong,Chittagong,Hathazari,55,0,63.959256,2.30793885,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chittagong,Chittagong City Corporation,53,0.2473255,76.3974504,2.456303017,HP,"Pacca- No, Semi Pacca- No, Kacha- Full",8
+Chittagong,Chittagong,Lohagara,56,0,100.4275044,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- Partial",
+Chittagong,Chittagong,Mirsharai,57,0.387413,42.6314844,0.836311108,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",3
+Chittagong,Chittagong,Patiya,58,0,82.5353856,0.090381611,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chittagong,Rangunia,59,0.772046268,74.4581772,4.12089721,No polder in the area,"Pacca- Full, Semi Pacca- Full, Kacha- Full",153
+Chittagong,Chittagong,Raozan,60,0,64.4781744,2.277135394,No polder in the area,"Pacca- Full, Semi Pacca- Full, Kacha- Full",1
+Chittagong,Chittagong,Sandwip,61,0.503885634,51.9255108,1.997494147,LP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",183
+Chittagong,Chittagong,Satkania,62,0,97.6030992,4.593941796,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Chittagong,Sitakunda,63,0.376362091,62.87013,1.069368627,LP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",11
+Chittagong,Cox'S Bazar,Chakaria,64,0.5948615,100.3940172,4.484989743,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",2
+Chittagong,Cox'S Bazar,Cox'S Bazar Sadar,65,0,92.3678784,3.938320139,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Cox'S Bazar,Kutubdia,66,0.778270167,80.8822584,1.886423539,LP,"Pacca- Full, Semi Pacca- Full, Kacha- Full",6
+Chittagong,Cox'S Bazar,Maheshkhali,67,0.259118,95.497038,6.582831916,LP,"Pacca- No, Semi Pacca- No, Kacha- Full",20
+Chittagong,Cox'S Bazar,Pekua,68,0.384939167,86.2693056,5.021310005,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",6
+Chittagong,Cox'S Bazar,Ramu,69,0,88.7877,2.477455376,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Cox'S Bazar,Teknaf,70,1.046894,56.3490288,7.409185263,HP,"Pacca- Full, Semi Pacca- Full, Kacha- Full",11
+Chittagong,Cox'S Bazar,Ukhia,71,0,68.0829624,2.943114841,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Feni,Chhagalnaiya,72,0,33.4912104,3.354059066,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Feni,Daganbhuiyan,73,0,29.8581804,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Feni,Feni Sadar,74,0,33.2440992,0.084006562,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Feni,Fulgazi,75,0,29.2293036,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Feni,Parshuram,76,0,28.0025676,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Feni,Sonagazi,77,0.505920333,36.4948848,0.821113651,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",6
+Chittagong,Lakshmipur,Kamalnagar,78,0,25.5495816,0.039034132,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Lakshmipur,Lakshmipur Sadar,79,1.083204,23.8431132,3.169748699,HP,"Pacca- Full, Semi Pacca- Full, Kacha- Full",2
+Chittagong,Lakshmipur,Ramganj,80,0,21.0552408,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Lakshmipur,Ramgati,81,0.661193345,28.5148368,1.172706419,HP,"Pacca- Full, Semi Pacca- Full, Kacha- Full",87
+Chittagong,Lakshmipur,Roypur,82,0.6387895,19.8608976,1.362296986,No polder in the area,"Pacca- Full, Semi Pacca- Full, Kacha- Full",18
+Chittagong,Noakhali,Begumganj,83,0,27.635976,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Noakhali,Chatkhil,84,0,22.9264092,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Noakhali,Companiganj,85,0.433933846,39.8932236,0.945774083,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",26
+Chittagong,Noakhali,Hatiya,86,0.574203829,38.8898892,4.617197388,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",258
+Chittagong,Noakhali,Kabirhat,87,0,31.74768,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Noakhali,Noakhali Sadar (Sudharam),88,0,30.2291928,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Noakhali,Senbagh,89,0,28.8527652,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Noakhali,Sonaimuri,90,0,26.199324,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Chittagong,Noakhali,Subarnachar,91,0.42378325,39.0630852,1.241142134,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",16
+Dhaka,Gopalganj,Gopalganj Sadar,92,0,11.049462,0.027127918,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Gopalganj,Kashiani,93,0,10.6140744,0.034699292,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Gopalganj,Kotali Para,94,0.211166,12.4155252,0,LP,"Pacca- No, Semi Pacca- No, Kacha- Full",1
+Dhaka,Gopalganj,Muksudpur,95,0,11.1329748,0.003813389,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Gopalganj,Tungi Para,96,0,11.4397956,0.224367057,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Shariatpur,Bhedarganj,97,0,16.0857972,1.152056079,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Shariatpur,Damudya,98,0,15.3487548,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Shariatpur,Gosairhat,99,0,16.2646884,1.059996894,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Shariatpur,Naria,100,0,14.7386016,0.867751583,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Shariatpur,Shariatpur Sadar,101,0,14.1958908,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Dhaka,Shariatpur,Zanjira,102,0.541888344,13.8825468,0.772738103,No polder in the area,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",32
+Khulna,Bagerhat,Bagerhat Sadar,103,0,10.9009224,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Bagerhat,Chitalmari,104,0,11.4018156,0.60250617,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Bagerhat,Fakirhat,105,0,10.176948,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Bagerhat,Kachua,106,0,11.4984828,0.607590463,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Bagerhat,Mollahat,107,0,10.618398,0.094946272,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Bagerhat,Mongla,108,0.3141054,10.9889244,1.221208164,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",10
+Khulna,Bagerhat,Morrelganj,109,0,12.021552,1.327425193,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Bagerhat,Rampal,110,0,10.4773104,1.217332363,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Bagerhat,Sarankhola,111,0.520743,11.9398104,4.139349848,LP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",1
+Khulna,Jessore,Abhaynagar,112,0,8.7385428,0.000227257,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Jessore,Bagher Para,113,0,8.1069948,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Jessore,Chaugachha,114,0,7.2718596,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Jessore,Jhikargachha,115,0,7.1281224,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Jessore,Keshabpur,116,0,7.7581476,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Jessore,Kotwali,117,0,7.9266024,0.000271143,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Jessore,Manirampur,118,0,7.8246288,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Jessore,Sharsha,119,0,6.9222276,0,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Batiaghata,120,0,9.115308,1.794497089,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Dacope,121,0,9.658926,5.00497802,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Khulna City Corporation,124,0,8.9651052,0.122381572,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Dighalia,122,0,9.0332928,0.000117385,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Dumuria,123,0,8.6764248,0.148567115,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Koyra,125,0.204794,9.2270412,2.92763474,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- Full",1
+Khulna,Khulna,Paikgachha,126,0,8.3874204,1.180372949,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Phultala,127,0,8.3590812,0.00012033,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Rupsa,128,0,9.7207884,0.014466886,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Khulna,Terokhada,129,0,9.8289,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Narail,Kalia,130,0,10.1486664,0.310402382,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Narail,Lohagara,131,0,9.638388,0.025521035,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Narail,Narail Sadar,132,0,8.8891092,0.000284043,No polder in the area,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Satkhira,Assasuni,133,0,7.542612,0.787654889,HP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Satkhira,Debhata,134,0,6.7388436,0.004687699,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Satkhira,Kalaroa,135,0,6.9159672,0,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Satkhira,Kaliganj,136,0,6.972192,0.003637014,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Satkhira,Satkhira Sadar,137,0,7.0169184,0.002588023,LP,"Pacca- No, Semi Pacca- No, Kacha- No",
+Khulna,Satkhira,Shyamnagar,138,0.435099231,8.3285712,2.642986629,HP,"Pacca- Partial, Semi Pacca- Full, Kacha- Full",13
+Khulna,Satkhira,Tala,139,0,7.6780548,0.00040163,LP,"Pacca- No, Semi Pacca- No, Kacha- No",

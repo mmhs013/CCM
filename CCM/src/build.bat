@@ -1,0 +1,1 @@
+pyinstaller --onefile -w CCM_GUI_File.py
