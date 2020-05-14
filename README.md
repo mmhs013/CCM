@@ -4,7 +4,7 @@ In terms of human casualty and property damage, cyclone & storm surge is the dom
 
 ## Demo
 
-![](.\docs\figs\CCM.gif)
+![](./docs/figs/CCM.gif)
 
 ## Project Description
 **Name :** [Research on Disaster Prevention/Mitigation against Floods and Storm Surges in Bangladesh](https://www.jst.go.jp/global/english/kadai/h2507_bangladesh.html)
@@ -46,8 +46,9 @@ In terms of human casualty and property damage, cyclone & storm surge is the dom
 - [Yasuyuki BABA](researchgate.net/profile/Yasuyuki_Baba)
 - [Hajime Nakagawa](https://www.researchgate.net/profile/Hajime_Nakagawa)
 
-## Reference
-- Haque, A., Shourov, M.H., Al Azad, A.A., Mita, K.S., Zaman, M.W., Mazhar, S., Ali, M.M., Kabir, R., Ansary, M.A., Ahsan, R. and Rahman, M., (2019) [A Cyclone Classifier Model for Real-time Cyclone Warning in Bangladesh.](http://gadri.net/4gsridrr/4thGlobalSummit_presentations/19gadri4105.pdf) 4th Global Summit of Research Institutes for Disaster Risk Reduction, Kyoto, Japan, March 13-15, 2019
+## Citation
+You can 
+> Haque, A., Shourov, M.H., Al Azad, A.A., Mita, K.S., Zaman, M.W., Mazhar, S., Ali, M.M., Kabir, R., Ansary, M.A., Ahsan, R. and Rahman, M., (2019) [A Cyclone Classifier Model for Real-time Cyclone Warning in Bangladesh.](http://gadri.net/4gsridrr/4thGlobalSummit_presentations/19gadri4105.pdf) 4th Global Summit of Research Institutes for Disaster Risk Reduction, Kyoto, Japan, March 13-15, 2019
 
 ## Acknowledgement
 This research was a part of a collaborative research project of Science and Technology Research Partnership for Sustainable Development (SATREP) between Bangladesh and the Japan Government funded by JST-JICA.
