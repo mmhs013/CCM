@@ -40,7 +40,7 @@ In terms of human casualty and property damage, cyclone & storm surge is the dom
 
 ### Supervisor
 - [Anisul Haque](https://iwfm.buet.ac.bd/site/faculty/anisul-haque)
-- [Md. Mansur Rahman](https://iwfm.buet.ac.bd/site/faculty/md-munsur-rahman)
+- [Md. Munsur Rahman](https://iwfm.buet.ac.bd/site/faculty/md-munsur-rahman)
 - [Raquib Ahsan](https://jidpus.buet.ac.bd/personnel/faculty_details/Dr.-Raquib-Ahsan)
 - [Mehedi Ahmed Ansary](https://ce.buet.ac.bd/profile-of-mehedi-ahmed-ansary/)
 - Bazlur Rashid
