@@ -27,6 +27,7 @@ In terms of human casualty and property damage, cyclone & storm surge is the dom
 - [A.S.M. Alauddin Al Azad](https://alauddinazad.wordpress.com/)
 - [Kazi Samsunnahar Mita](https://kazimita.wordpress.com/)
 - Anika Tahsin Nijhum
+- [Marin Akter](https://www.researchgate.net/profile/Marin-Akter)
 
 ### Structural Design
 - [Md. Wasif Zaman](https://www.researchgate.net/profile/Md_Zaman11)
@@ -51,7 +52,7 @@ In terms of human casualty and property damage, cyclone & storm surge is the dom
 You can cite CCM as below :
 > Haque, A., Shourov, M.H., Al Azad, A.A., Mita, K.S., Zaman, M.W., Mazhar, S., Ali, M.M., Kabir, R., Ansary, M.A., Ahsan, R. and Rahman, M., (2019) [A Cyclone Classifier Model for Real-time Cyclone Warning in Bangladesh.](http://gadri.net/4gsridrr/4thGlobalSummit_presentations/19gadri4105.pdf) 4th Global Summit of Research Institutes for Disaster Risk Reduction, Kyoto, Japan, March 13-15, 2019
 
-In addition, each release of PowNet is achieved on Zenodo with a DOI, that can be found [here](https://zenodo.org/badge/latestdoi/263951347).
+In addition, each release of CCM is achieved on Zenodo with a DOI, that can be found [here](https://zenodo.org/badge/latestdoi/263951347).
 
 ## Acknowledgement
 This research was a part of a collaborative research project of Science and Technology Research Partnership for Sustainable Development (SATREP) between Bangladesh and the Japan Government funded by JST-JICA.
